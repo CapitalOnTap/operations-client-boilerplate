@@ -26,6 +26,12 @@ This is our internal component library that we use to build UIs. It is comprised
 
 You can find more about it or to raise issues at [Github](https://github.com/CapitalOnTap/COTE)
 
+You can browse the component library [here](https://pedantic-allen-53a8aa.netlify.com/)
+
+## Static files - images, css, etc
+
+You can create at the roote level a `static` folder and add reference to files like `/static/images/myimage.jpeg` for example. See more [here](https://github.com/zeit/next.js/#static-file-serving-eg-images)
+
 # Mock-APi
 
 This is not ready yet - work in progress
